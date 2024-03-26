@@ -10,3 +10,7 @@
   ## git / github흐름 그림
   * git pull = git fetch + git merge
   * git clone의 화살표는 git directory가 아닌, local directory로 향해야 하는것이 아닌가? 
+
+
+
+https://github.com/Ryan0hwan/Ryan0hwan
