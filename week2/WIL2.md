@@ -20,7 +20,7 @@ repo에서 작업계획, 토론 및 추적을 위해 사용한다.
 
 ### merge할때는, 3가지 옵션이 존재한다.
 1. Create a commit merge [이게 3-way merge인가?]
-2. Squash and merge [여러개의 커밋을 하나의 커밋으로 바꾸어 merge시키는 것. 이걸 주로 쓴다고 한다.]
+2. Squash and merge [여러개의 커밋을 하나의 커밋으로 바꾸어 merge시키는 것. 이걸 주로 쓴다고 한다. 커밋기록 신경안쓰고 merge만 할때?]
 3. Rebase and merge [base를 재설정해서 커밋기록을 깔끔하게 정리되나, merge conflict가 자주 발생한다.]
 
 
