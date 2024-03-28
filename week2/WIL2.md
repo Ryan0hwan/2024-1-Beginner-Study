@@ -32,3 +32,5 @@ repo에서 작업계획, 토론 및 추적을 위해 사용한다.
 * git branch -D <브랜치이름> : 브랜치 삭제
 
 
+### 실습 링크
+https://github.com/Ryan0hwan/2024-1-Beginner-Study/pull/2
